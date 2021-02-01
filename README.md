@@ -4,7 +4,7 @@ this was created on local machine first
 
 
 
-LOCAL REPO pushed to REMOTE
+##LOCAL REPO pushed to REMOTE
 create folder, create some file.
 $ git init
 $ git status
